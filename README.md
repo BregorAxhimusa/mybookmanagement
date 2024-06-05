@@ -19,10 +19,11 @@ To test the functionality of the API, follow these steps:
 1. Clone the project repository.
 2. Navigate to the project directory.
 3. Run `composer install` to install the project dependencies.
-4. Configure the database settings in the `.env` file.
-5. Run `php artisan migrate` to migrate the database schema.
-6. Start the development server by running `php artisan serve`.
-7. Use an API client (e.g., Postman) to interact with the endpoints or run `php artisan test` to execute the automated tests.
+4. Run `npm install` to install the necessary Node.js dependencies.
+5. Configure the database settings in the `.env` file.
+6. Run `php artisan migrate` to migrate the database schema.
+7. Start the development server by running `php artisan serve`.
+8. Use an API client (e.g., Postman) to interact with the endpoints or run `php artisan test` to execute the automated tests.
 
 ## Evaluation
 
