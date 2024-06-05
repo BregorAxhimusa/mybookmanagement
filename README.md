@@ -24,6 +24,8 @@ To test the functionality of the API, follow these steps:
 6. Run `php artisan migrate:rollback && php artisan migrate` to migrate the database schema.
 7. Start the development server by running `php artisan serve`.
 8. Use an API client (e.g., Postman) to interact with the endpoints or run `php artisan test` to execute the automated tests.
+9. Run `php artisan jwt:secret` Final.
+
 
 ## Evaluation
 
